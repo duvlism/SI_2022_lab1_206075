@@ -1,5 +1,6 @@
 Jabolka x1
 Gin x2
 Sprite x2 
-Praska x3
+Jagoda x3
 Maslinovo maslo x1 
+Kafe x1
