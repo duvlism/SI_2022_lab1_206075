@@ -1,0 +1,43 @@
+$ git clone https://github.com/duvlism/SI_2022_lab1_206075.git
+$ git cd SI_2022_lab1_206075
+$ git init
+$ git status
+$ git add shopping_list.txt
+$ git commit -m "Add 5 items to the shoping list"
+$ git push -f origin master
+
+
+$ git status
+$ git add shopping_list.txt
+$ git commit -m "Add quantities to the items"
+$ git push -f origin master
+
+$ git branch branch1
+$ git branch branch2
+$ git checkout branch1
+// promena na kolichina na 5ti proizvod
+$ git add shopping_list.txt
+$ git commit -m "Change of item #5"
+$ git push origin branch1
+$ git checkout master
+// promena na kolichina na proizvod 2
+$ git add shopping_list.txt
+$ git commit -m "Change of item #2"
+$ git push origin master
+
+$ git checkout branch2
+//promena na ime na proizvod 4
+$ git status
+$ git add shopping_list.txt
+$ git commit -m "Modify item #4"
+//dodavame 6ti proizvod
+$ git add shopping_list.txt
+$ git commit -m "Modify item #4 and item #6"
+$ git push -f origin branch2
+$ git checkout master
+$ git merge branch1
+$ git merge branch2
+
+
+
+
