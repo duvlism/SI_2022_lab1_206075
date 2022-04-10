@@ -1,1 +1,1 @@
-# SI_2022_lab1_206075
+Marija Duvlis 206075
