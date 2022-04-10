@@ -1,5 +1,5 @@
-Jabolka 
-Gin 
-Sprite 
-Praska 
-Maslinovo maslo 
+Jabolka x1
+Gin x2
+Sprite x2 
+Praska x3
+Maslinovo maslo x1 
