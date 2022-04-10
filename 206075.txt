@@ -37,7 +37,7 @@ $ git push -f origin branch2
 $ git checkout master
 $ git merge branch1
 $ git merge branch2
-
+// Koga probuvam merge so branch2 ne mi dava mi javuva konflikt, ne mozhev da go sredam
 
 
 
